@@ -1,0 +1,442 @@
+[
+  {
+    "name": "Zacatecas",
+    "city": "Magisterial",
+    "state": "ZAC",
+    "photo": "http://dummyimage.com/220x100.png/5fa2dd/ffffff",
+    "availableUnits": "4987291398",
+    "wifi": true,
+    "laundry": false
+  },
+  {
+    "name": "Zacatecas",
+    "city": "Francisco I Madero",
+    "state": "ZAC",
+    "photo": "http://dummyimage.com/206x100.png/dddddd/000000",
+    "availableUnits": "2813857785",
+    "wifi": false,
+    "laundry": false
+  },
+  {
+    "name": "Zacatecas",
+    "city": "Francisco I Madero",
+    "state": "ZAC",
+    "photo": "http://dummyimage.com/217x100.png/dddddd/000000",
+    "availableUnits": "7657348577",
+    "wifi": true,
+    "laundry": true
+  },
+  {
+    "name": "Zacatecas",
+    "city": "Francisco I Madero",
+    "state": "ZAC",
+    "photo": "http://dummyimage.com/219x100.png/ff4444/ffffff",
+    "availableUnits": "6857596433",
+    "wifi": false,
+    "laundry": false
+  },
+  {
+    "name": "Zacatecas",
+    "city": "Francisco I Madero",
+    "state": "ZAC",
+    "photo": "http://dummyimage.com/107x100.png/cc0000/ffffff",
+    "availableUnits": "1808221974",
+    "wifi": true,
+    "laundry": false
+  },
+  {
+    "name": "Zacatecas",
+    "city": "Francisco I Madero",
+    "state": "ZAC",
+    "photo": "http://dummyimage.com/179x100.png/cc0000/ffffff",
+    "availableUnits": "5531954417",
+    "wifi": false,
+    "laundry": false
+  },
+  {
+    "name": "Zacatecas",
+    "city": "Francisco I Madero",
+    "state": "ZAC",
+    "photo": "http://dummyimage.com/243x100.png/5fa2dd/ffffff",
+    "availableUnits": "1697250629",
+    "wifi": false,
+    "laundry": true
+  },
+  {
+    "name": "Zacatecas",
+    "city": "Francisco I Madero",
+    "state": "ZAC",
+    "photo": "http://dummyimage.com/246x100.png/ff4444/ffffff",
+    "availableUnits": "9261963692",
+    "wifi": false,
+    "laundry": false
+  },
+  {
+    "name": "Zacatecas",
+    "city": "Magisterial",
+    "state": "ZAC",
+    "photo": "http://dummyimage.com/161x100.png/cc0000/ffffff",
+    "availableUnits": "5671910706",
+    "wifi": true,
+    "laundry": false
+  },
+  {
+    "name": "Zacatecas",
+    "city": "Magisterial",
+    "state": "ZAC",
+    "photo": "http://dummyimage.com/194x100.png/dddddd/000000",
+    "availableUnits": "9955261994",
+    "wifi": false,
+    "laundry": true
+  },
+  {
+    "name": "Zacatecas",
+    "city": "Magisterial",
+    "state": "ZAC",
+    "photo": "http://dummyimage.com/234x100.png/dddddd/000000",
+    "availableUnits": "4702882279",
+    "wifi": false,
+    "laundry": false
+  },
+  {
+    "name": "Zacatecas",
+    "city": "Francisco I Madero",
+    "state": "ZAC",
+    "photo": "http://dummyimage.com/238x100.png/dddddd/000000",
+    "availableUnits": "6439982575",
+    "wifi": false,
+    "laundry": false
+  },
+  {
+    "city": "Magisterial",
+    "photo": "http://dummyimage.com/224x100.png/cc0000/ffffff",
+    "availableUnits": "9089056521",
+    "wifi": true,
+    "laundry": false
+  },
+  {
+    "name": "Zacatecas",
+    "city": "Francisco I Madero",
+    "state": "ZAC",
+    "photo": "http://dummyimage.com/233x100.png/cc0000/ffffff",
+    "availableUnits": "9980244860",
+    "wifi": true,
+    "laundry": true
+  },
+  {
+    "name": "Zacatecas",
+    "city": "Magisterial",
+    "state": "ZAC",
+    "photo": "http://dummyimage.com/145x100.png/ff4444/ffffff",
+    "availableUnits": "7845845841",
+    "wifi": true,
+    "laundry": true
+  },
+  {
+    "name": "Zacatecas",
+    "city": "Francisco I Madero",
+    "state": "ZAC",
+    "photo": "http://dummyimage.com/217x100.png/dddddd/000000",
+    "availableUnits": "9897880712",
+    "wifi": false,
+    "laundry": true
+  },
+  {
+    "name": "Zacatecas",
+    "city": "Francisco I Madero",
+    "state": "ZAC",
+    "photo": "http://dummyimage.com/173x100.png/ff4444/ffffff",
+    "availableUnits": "0470084871",
+    "wifi": true,
+    "laundry": false
+  },
+  {
+    "name": "Zacatecas",
+    "city": "Magisterial",
+    "state": "ZAC",
+    "photo": "http://dummyimage.com/186x100.png/5fa2dd/ffffff",
+    "availableUnits": "7396059542",
+    "wifi": false,
+    "laundry": false
+  },
+  {
+    "city": "Magisterial",
+    "photo": "http://dummyimage.com/192x100.png/ff4444/ffffff",
+    "availableUnits": "3500903282",
+    "wifi": false,
+    "laundry": false
+  },
+  {
+    "name": "Zacatecas",
+    "city": "Francisco I Madero",
+    "state": "ZAC",
+    "photo": "http://dummyimage.com/184x100.png/5fa2dd/ffffff",
+    "availableUnits": "8973261169",
+    "wifi": false,
+    "laundry": true
+  },
+  {
+    "name": "Zacatecas",
+    "city": "Francisco I Madero",
+    "state": "ZAC",
+    "photo": "http://dummyimage.com/211x100.png/dddddd/000000",
+    "availableUnits": "4897989647",
+    "wifi": true,
+    "laundry": true
+  },
+  {
+    "name": "Zacatecas",
+    "city": "Magisterial",
+    "state": "ZAC",
+    "photo": "http://dummyimage.com/227x100.png/ff4444/ffffff",
+    "availableUnits": "1111379203",
+    "wifi": false,
+    "laundry": true
+  },
+  {
+    "name": "Zacatecas",
+    "city": "Magisterial",
+    "state": "ZAC",
+    "photo": "http://dummyimage.com/140x100.png/cc0000/ffffff",
+    "availableUnits": "9455615738",
+    "wifi": true,
+    "laundry": true
+  },
+  {
+    "name": "Zacatecas",
+    "city": "Magisterial",
+    "state": "ZAC",
+    "photo": "http://dummyimage.com/102x100.png/ff4444/ffffff",
+    "availableUnits": "6967842226",
+    "wifi": true,
+    "laundry": true
+  },
+  {
+    "name": "Zacatecas",
+    "city": "Magisterial",
+    "state": "ZAC",
+    "photo": "http://dummyimage.com/176x100.png/5fa2dd/ffffff",
+    "availableUnits": "1925838471",
+    "wifi": true,
+    "laundry": true
+  },
+  {
+    "name": "Zacatecas",
+    "city": "Magisterial",
+    "state": "ZAC",
+    "photo": "http://dummyimage.com/126x100.png/dddddd/000000",
+    "availableUnits": "8353921030",
+    "wifi": false,
+    "laundry": false
+  },
+  {
+    "name": "Zacatecas",
+    "city": "Magisterial",
+    "state": "ZAC",
+    "photo": "http://dummyimage.com/221x100.png/cc0000/ffffff",
+    "availableUnits": "5493857782",
+    "wifi": false,
+    "laundry": false
+  },
+  {
+    "name": "Zacatecas",
+    "city": "Magisterial",
+    "state": "ZAC",
+    "photo": "http://dummyimage.com/102x100.png/ff4444/ffffff",
+    "availableUnits": "2329476361",
+    "wifi": false,
+    "laundry": false
+  },
+  {
+    "name": "Zacatecas",
+    "city": "Magisterial",
+    "state": "ZAC",
+    "photo": "http://dummyimage.com/195x100.png/cc0000/ffffff",
+    "availableUnits": "2784500756",
+    "wifi": false,
+    "laundry": false
+  },
+  {
+    "city": "Magisterial",
+    "photo": "http://dummyimage.com/248x100.png/5fa2dd/ffffff",
+    "availableUnits": "2681836042",
+    "wifi": false,
+    "laundry": false
+  },
+  {
+    "name": "Zacatecas",
+    "city": "Magisterial",
+    "state": "ZAC",
+    "photo": "http://dummyimage.com/223x100.png/dddddd/000000",
+    "availableUnits": "1701841894",
+    "wifi": false,
+    "laundry": true
+  },
+  {
+    "name": "Zacatecas",
+    "city": "Francisco I Madero",
+    "state": "ZAC",
+    "photo": "http://dummyimage.com/215x100.png/ff4444/ffffff",
+    "availableUnits": "2010120191",
+    "wifi": false,
+    "laundry": false
+  },
+  {
+    "name": "Zacatecas",
+    "city": "Magisterial",
+    "state": "ZAC",
+    "photo": "http://dummyimage.com/138x100.png/dddddd/000000",
+    "availableUnits": "9734022377",
+    "wifi": false,
+    "laundry": true
+  },
+  {
+    "name": "Zacatecas",
+    "city": "Francisco I Madero",
+    "state": "ZAC",
+    "photo": "http://dummyimage.com/231x100.png/5fa2dd/ffffff",
+    "availableUnits": "3066657280",
+    "wifi": false,
+    "laundry": false
+  },
+  {
+    "city": "Francisco I Madero",
+    "photo": "http://dummyimage.com/106x100.png/cc0000/ffffff",
+    "availableUnits": "8889563605",
+    "wifi": true,
+    "laundry": false
+  },
+  {
+    "name": "Zacatecas",
+    "city": "Magisterial",
+    "state": "ZAC",
+    "photo": "http://dummyimage.com/214x100.png/5fa2dd/ffffff",
+    "availableUnits": "7202139545",
+    "wifi": false,
+    "laundry": true
+  },
+  {
+    "name": "Zacatecas",
+    "city": "Francisco I Madero",
+    "state": "ZAC",
+    "photo": "http://dummyimage.com/225x100.png/cc0000/ffffff",
+    "availableUnits": "2284313876",
+    "wifi": false,
+    "laundry": false
+  },
+  {
+    "name": "Zacatecas",
+    "city": "Francisco I Madero",
+    "state": "ZAC",
+    "photo": "http://dummyimage.com/243x100.png/5fa2dd/ffffff",
+    "availableUnits": "6454363554",
+    "wifi": false,
+    "laundry": false
+  },
+  {
+    "name": "Zacatecas",
+    "city": "Magisterial",
+    "state": "ZAC",
+    "photo": "http://dummyimage.com/152x100.png/ff4444/ffffff",
+    "availableUnits": "3433619557",
+    "wifi": true,
+    "laundry": false
+  },
+  {
+    "name": "Zacatecas",
+    "city": "Magisterial",
+    "state": "ZAC",
+    "photo": "http://dummyimage.com/134x100.png/5fa2dd/ffffff",
+    "availableUnits": "7523943675",
+    "wifi": false,
+    "laundry": false
+  },
+  {
+    "name": "Zacatecas",
+    "city": "Magisterial",
+    "state": "ZAC",
+    "photo": "http://dummyimage.com/156x100.png/ff4444/ffffff",
+    "availableUnits": "3325756360",
+    "wifi": true,
+    "laundry": true
+  },
+  {
+    "name": "Zacatecas",
+    "city": "Magisterial",
+    "state": "ZAC",
+    "photo": "http://dummyimage.com/232x100.png/cc0000/ffffff",
+    "availableUnits": "6266722615",
+    "wifi": false,
+    "laundry": false
+  },
+  {
+    "name": "Zacatecas",
+    "city": "Francisco I Madero",
+    "state": "ZAC",
+    "photo": "http://dummyimage.com/229x100.png/ff4444/ffffff",
+    "availableUnits": "8211051508",
+    "wifi": false,
+    "laundry": true
+  },
+  {
+    "city": "Francisco I Madero",
+    "photo": "http://dummyimage.com/206x100.png/dddddd/000000",
+    "availableUnits": "1932773584",
+    "wifi": false,
+    "laundry": false
+  },
+  {
+    "name": "Zacatecas",
+    "city": "Magisterial",
+    "state": "ZAC",
+    "photo": "http://dummyimage.com/191x100.png/cc0000/ffffff",
+    "availableUnits": "4985536296",
+    "wifi": true,
+    "laundry": false
+  },
+  {
+    "name": "Zacatecas",
+    "city": "Magisterial",
+    "state": "ZAC",
+    "photo": "http://dummyimage.com/126x100.png/5fa2dd/ffffff",
+    "availableUnits": "4014368890",
+    "wifi": false,
+    "laundry": true
+  },
+  {
+    "name": "Zacatecas",
+    "city": "Magisterial",
+    "state": "ZAC",
+    "photo": "http://dummyimage.com/136x100.png/cc0000/ffffff",
+    "availableUnits": "8954994709",
+    "wifi": false,
+    "laundry": false
+  },
+  {
+    "name": "Zacatecas",
+    "city": "Magisterial",
+    "state": "ZAC",
+    "photo": "http://dummyimage.com/130x100.png/5fa2dd/ffffff",
+    "availableUnits": "3730881825",
+    "wifi": true,
+    "laundry": true
+  },
+  {
+    "name": "Zacatecas",
+    "city": "Francisco I Madero",
+    "state": "ZAC",
+    "photo": "http://dummyimage.com/179x100.png/dddddd/000000",
+    "availableUnits": "1069991260",
+    "wifi": false,
+    "laundry": false
+  },
+  {
+    "name": "Zacatecas",
+    "city": "Francisco I Madero",
+    "state": "ZAC",
+    "photo": "http://dummyimage.com/240x100.png/cc0000/ffffff",
+    "availableUnits": "9429512994",
+    "wifi": false,
+    "laundry": true
+  }
+]
